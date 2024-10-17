@@ -32,8 +32,7 @@ To run this project, you'll need **Node.js** installed on your machine.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/string-calculator-tdd.git
-    cd string-calculator-tdd
+   https://github.com/JatinThakur2/TDD-Assessment.git
     ```
 
 2. **Install dependencies:**
